@@ -1,0 +1,6 @@
+summary,cited_by_count,created_date,display_name,id,most_cited_work,orcid,updated_date,works_api_url,works_count
+count,253779827,253779827,253568630,253779827,213480810,4493049,253779827,253779827,253779827
+mean,31.829215341848272,,Infinity,,,,,,2.3682596528840727
+stddev,586.4274749064085,,NaN,,,,,,15.90174538780119
+min,0,2016-06-24,"		L.Hemalatha*, Dr.I.Elizabeth Shanthi",https://openalex.org/A1000000099,	PERSONAL LOGO FOR A CREATION FIRM OR ATELIER (2022),https://orcid.org/0---,2022-04-28T14:16:02.478578,https://api.openalex.org/works?filter=author.id:A1000000099,0
+max,592203,2022-09-15,􀚏􁲊􀒓 FENG XIAOCAI,https://openalex.org/A999999963,􀭀􀔓􁮷􀓪􂲴􄘭􂉲􃠷􀽒􁜣: (2018),https://orcid.org/9999-9999-9999-9999,2022-09-15T16:48:09.699476,https://api.openalex.org/works?filter=author.id:A999999963,94409
